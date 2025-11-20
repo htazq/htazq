@@ -6,9 +6,13 @@
 
 ## 🎨 我的 3D 贡献图合集
 
-| Gitblock | Green Animate | Green |
-|----------|---------------|-------|
-| ![](./profile-3d-contrib/profile-gitblock.svg) | ![](./profile-3d-contrib/profile-green-animate.svg) | ![](./profile-3d-contrib/profile-green.svg) |
+| Gitblock |
+|----------|
+| ![](./profile-3d-contrib/profile-gitblock.svg) |
+
+| Green Animate | Green |
+|---------------|-------|
+| ![](./profile-3d-contrib/profile-green-animate.svg) | ![](./profile-3d-contrib/profile-green.svg) |
 
 | Night Green | Night Rainbow | Night View |
 |-------------|---------------|------------|
@@ -35,9 +39,10 @@
 
 ## ✨ 关于我
 
-- 🔭 我正在探索更多开源项目  
-- 🌱 热衷于学习 TypeScript / Python / Shell  
-- ⚡ 喜欢把数据和图表结合起来展示  
-- 💡 目标是让 GitHub 主页更有趣、更直观  
+- 🔭 正在探索更多开源项目，感谢 GitHub 平台带来的学习与交流机会  
+- 🌱 学习与实践 **AI、Vibe Coding、SRE、CI/CD**  
+- 📝 我的博客：[blog.at9.net](https://blog.at9.net)  
+- 🌐 个人主页：[at9.net](https://at9.net)  
+- 🚀 我的社区平台：[cnb.cool/htazq](https://cnb.cool/htazq)  
 
 ---
