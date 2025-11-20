@@ -31,6 +31,5 @@
 - 🌱 学习与实践 **AI、Vibe Coding、SRE、CI/CD**  
 - 📝 我的博客：[blog.at9.net](https://blog.at9.net)  
 - 🌐 个人主页：[at9.net](https://at9.net)  
-- 🚀 我的社区平台：[cnb.cool/htazq](https://cnb.cool/htazq)  
 
 ---
