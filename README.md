@@ -10,18 +10,6 @@
 |----------|
 | ![](./profile-3d-contrib/profile-gitblock.svg) |
 
-| Green Animate | Green |
-|---------------|-------|
-| ![](./profile-3d-contrib/profile-green-animate.svg) | ![](./profile-3d-contrib/profile-green.svg) |
-
-| Night Green | Night Rainbow | Night View |
-|-------------|---------------|------------|
-| ![](./profile-3d-contrib/profile-night-green.svg) | ![](./profile-3d-contrib/profile-night-rainbow.svg) | ![](./profile-3d-contrib/profile-night-view.svg) |
-
-| Season Animate | Season | South Season Animate | South Season |
-|----------------|--------|----------------------|--------------|
-| ![](./profile-3d-contrib/profile-season-animate.svg) | ![](./profile-3d-contrib/profile-season.svg) | ![](./profile-3d-contrib/profile-south-season-animate.svg) | ![](./profile-3d-contrib/profile-south-season.svg) |
-
 ---
 
 ## 📈 我的活动图
