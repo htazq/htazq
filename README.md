@@ -20,15 +20,16 @@ Welcome to my GitHub profile. Here you can find my contribution graph, activity 
 
 ## 🏆 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=htazq&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=htazq&layout=compact&theme=radical)
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
 ## ✨ About Me
-🔭 Exploring open-source projects and building practical tools
-🤖 Interested in AI, Vibe Coding, SRE, CI/CD, and distributed systems
-📈 Learning and researching trading systems and quantitative strategies
-🌐 Homepage: at9.net
+- 🔭 Exploring open-source projects and building practical tools
+- 🤖 Interested in **AI, Vibe Coding, SRE, CI/CD, and distributed systems**
+- 📈 Learning and researching **trading systems and quantitative strategies**
+- 🌐 Homepage: [at9.net](https://at9.net)
 
 ---
